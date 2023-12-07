@@ -1,0 +1,42 @@
+
+body {font-family: Arial, sans-serif;}
+
+.recipe-image {
+  max-width: 300px; 
+  height: auto;
+}
+
+
+
+.recipe {
+    display: none;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: #00e9fa;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+#pagination { background-color: black;
+    margin-top: 20px;
+}
+
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #00e9fa;
+    color: #000000;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00fcef;
+}
+body  { background-color: black;}
